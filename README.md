@@ -6,7 +6,7 @@ Backend developer in Nodejs
 
 * 🌍  I'm based Pereira
 * ✉️  You can contact me at [baltoncruzrenteria@gmail.com](mailto:baltoncruzrenteria@gmail.com)
-* 🧠  I'm learning Python, AWS, Microservices,Design patterns, Best practices.
+* 🧠  I'm learning Python and JAVA, AWS, Microservices,Design patterns, Best practices.
 
 ### Skills
 
