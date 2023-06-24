@@ -1,7 +1,7 @@
 Hi 👋 My name is Harold Cruz
 
 
-Backend developer in Nodejs
+Software Engineering | Full Stack Front-End | Angular Developer
 ---------------------------
 
 * 🌍  I'm based Pereira
