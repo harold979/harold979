@@ -6,7 +6,7 @@
   
 * ✉️  You can contact me at [baltoncruzrenteria@gmail.com](mailto:baltoncruzrenteria@gmail.com)
   
-* 🧠  I'm learning Python and JAVA, Astro, Microservices,Design patterns, Best practices.
+* 🧠  I'm learning  Astro, Microservices,Design patterns, Best practices.
 
 <div align="center">
 
